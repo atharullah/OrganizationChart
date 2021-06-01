@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="42080d29-58bf-4061-849f-344d88a99bbc" Scope="Site" Title="FinalChart Feature1">
+  <ElementManifests>
+    <ElementManifest Location="OtherChart\Elements.xml" />
+    <ElementFile Location="OtherChart\OtherChart.webpart" />
+  </ElementManifests>
+</Feature>

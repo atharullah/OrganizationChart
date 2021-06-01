@@ -1,0 +1,5 @@
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\bin\Debug\OrganizationChart.dll
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\bin\Debug\OrganizationChart.pdb
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\obj\Debug\OrganizationChart.dll
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\obj\Debug\OrganizationChart.pdb
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\obj\Debug\OrganizationChart.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="66c55cf2-90ba-434e-a830-03617c2c5d73" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="FinalChart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="FinalChart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0493e44fdb234f09" Namespace="FinalChart.OtherChart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\FinalChart\OtherChart\OtherChartUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="FinalChart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ExcelUploader Feature1" Id="07ea824b-de50-4cbb-a0f7-e22b4889aa42" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="ExcelMigrate\Elements.xml" />
+    <ElementFile Location="ExcelMigrate\ExcelMigrate.webpart" />
+  </ElementManifests>
+</Feature>

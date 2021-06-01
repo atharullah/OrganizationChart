@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8ba18978-57da-4559-8730-78598874b14b" solutionId="8ba18978-57da-4559-8730-78598874b14b" resetWebServer="false" sharePointProductVersion="15.0" name="ExcelUploader" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="a96e4971-26fd-45a4-8453-7970a2ea22ba" />
+  </features>
+</package>

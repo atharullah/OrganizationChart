@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d7a6573c-031d-4b92-b5f1-23933846ce72" solutionId="d7a6573c-031d-4b92-b5f1-23933846ce72" resetWebServer="false" sharePointProductVersion="15.0" name="Organization Chart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="a2bd3c43-302c-43db-b255-3076a06a1048" />
+  </features>
+</package>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="b832c673-8c88-454b-b12f-e6c1717a02f2" Scope="Site" Title="Organization Chart">
+  <ElementManifests>
+    <ElementManifest Location="Chart\Elements.xml" />
+    <ElementFile Location="Chart\Chart.webpart" />
+  </ElementManifests>
+</Feature>

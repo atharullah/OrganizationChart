@@ -1,0 +1,10 @@
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\bin\Release\UserProfileSchedular.exe.config
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\bin\Release\UserProfileSchedular.exe.manifest
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\bin\Release\UserProfileSchedular.application
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\bin\Release\UserProfileSchedular.exe
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\bin\Release\UserProfileSchedular.pdb
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\obj\Release\UserProfileSchedular.exe.manifest
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\obj\Release\UserProfileSchedular.application
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\obj\Release\UserProfileSchedular.exe
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\obj\Release\UserProfileSchedular.pdb
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\UserProfileSchedular\obj\Release\UserProfileSchedular.csprojResolveAssemblyReference.cache

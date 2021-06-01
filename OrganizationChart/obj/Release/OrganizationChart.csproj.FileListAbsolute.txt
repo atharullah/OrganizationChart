@@ -1,0 +1,7 @@
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\bin\Release\OrganizationChart.dll
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\bin\Release\OrganizationChart.pdb
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\obj\Release\OrganizationChart.dll
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\obj\Release\OrganizationChart.pdb
+C:\Users\spstp_octaware\Documents\Visual Studio 2013\Projects\OrganizationChart\OrganizationChart\obj\Release\OrganizationChart.csprojResolveAssemblyReference.cache
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\bin\Release\OrganizationChart.dll.CodeAnalysisLog.xml
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\OrganizationChart\bin\Release\OrganizationChart.dll.lastcodeanalysissucceeded

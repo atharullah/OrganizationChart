@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8ba18978-57da-4559-8730-78598874b14b" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="ExcelUploader.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ExcelUploader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9ea2cfb4f5178847" Namespace="ExcelUploader.ExcelMigrate" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\ExcelUploader\ExcelMigrate\ExcelMigrateUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ExcelUploader_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

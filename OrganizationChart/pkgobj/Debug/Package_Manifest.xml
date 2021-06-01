@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d7a6573c-031d-4b92-b5f1-23933846ce72" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="OrganizationChart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="OrganizationChart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=87d81e6668aa0bcf" Namespace="OrganizationChart.Chart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\OrganizationChart\Chart\ChartUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="OrganizationChart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,6 @@
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\ChartSchedular\obj\Debug\ChartSchedular.csprojResolveAssemblyReference.cache
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\ChartSchedular\bin\Debug\ChartSchedular.exe.config
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\ChartSchedular\bin\Debug\ChartSchedular.exe
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\ChartSchedular\bin\Debug\ChartSchedular.pdb
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\ChartSchedular\obj\Debug\ChartSchedular.exe
+C:\Users\spstp_octaware\documents\visual studio 2013\Projects\OrganizationChart\ChartSchedular\obj\Debug\ChartSchedular.pdb
